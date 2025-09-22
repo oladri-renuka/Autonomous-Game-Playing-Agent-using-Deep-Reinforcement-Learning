@@ -1,4 +1,4 @@
-# Strategic Board Game AI using Self-Play Reinforcement Learning
+# Autonomous Game Playing Agent using Deep Reinforcement Learning
 
 A reinforcement learning implementation that creates an intelligent game-playing agent using Proximal Policy Optimization (PPO) and innovative self-play techniques. The agent learns complex strategic gameplay patterns through neural network-based policy learning, achieving competitive performance without any pre-programmed game knowledge.
 
